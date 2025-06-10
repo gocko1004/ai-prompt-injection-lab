@@ -1,0 +1,19 @@
+
+The app detects it and blocks the output.
+
+![Dangerous Instruction](../images/prompt-detector/dangerous-instruction-detected.png)
+
+---
+
+## 🧠 System Prompt Leak
+
+A custom payload triggered an unintentional **system prompt disclosure**.
+
+![System Prompt Leak](../images/prompt-detector/system-prompt-leak.png)
+
+---
+
+## 🏴‍☠️ Prompt Injection Pirate Mode
+
+In this test, the model was tricked into acting as a pirate character using the following prompt:
+
